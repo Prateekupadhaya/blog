@@ -1,2 +1,1 @@
-prateek
 # blog
